@@ -10,7 +10,10 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/your-poonam_sabale)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-poonam_sabale">LinkedIn</a>
+</p>
+
 
 
 
