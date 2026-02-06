@@ -6,8 +6,8 @@
 
 🛠️ Tools & Technologies:
 
-| AWS | Docker | Kubernetes | Jenkins | Linux | Git |
-|-----|--------|------------|---------|-------|-----|
+| AWS | Docker                     | Kubernetes | Jenkins | Linux | Git |Terraform |Ansible | Ubuntu |Github | VS Code|
+|-----|----(images/docker.png) ----|------------|---------|-------|-----|
 
 
 
