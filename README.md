@@ -80,7 +80,19 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/><br>Jira</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/ic
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40"/><br>Tomcat</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/><br>Nginx</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/><br>MySQL</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40"/><br>MariaDB</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40"/><br>SonarQube</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
 
 
 
