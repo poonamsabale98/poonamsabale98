@@ -1,6 +1,6 @@
 👋 About Me
 
-📫 How to reach me:
+
 
 
   # 👨‍💻 About Me
@@ -11,7 +11,7 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 ---
 
-## 🌐 Connect with Me
+## 📫 How to reach me:
 
 [LinkedIn](https://www.linkedin.com/in/your-linkedin-poonam-sabale)
 
