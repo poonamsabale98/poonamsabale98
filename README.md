@@ -1,6 +1,7 @@
 👋 About Me
+
 🌐 Connect with Me:
-[LinkedIn]([your-link-here](https://www.linkedin.com/in/poonam-sabale/))
+[LinkedIn](https://www.linkedin.com/in/poonam-sabale/))
 
 
 <!--
