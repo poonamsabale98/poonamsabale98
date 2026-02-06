@@ -1,7 +1,16 @@
 👋 About Me
 
-🌐 Connect with Me:
+📫 How to reach me:
+
 [LinkedIn](https://www.linkedin.com/in/poonam-sabale/))
+
+🛠️ Tools & Technologies:
+
+| AWS | Docker | Kubernetes | Jenkins | Linux | Git |
+|-----|--------|------------|---------|-------|-----|
+
+
+
 
 
 <!--
