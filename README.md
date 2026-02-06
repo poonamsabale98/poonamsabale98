@@ -30,9 +30,9 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 ## 🛠️ Tools & Technologies
 
-| Azure | Jenkins | Linux | GitLab | CircleCI | Jira |
+| Azure | Linux | GitLab | CircleCI | Jira |
 |-------|---------|-------|--------|----------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/> | 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/> |  Jenkins |
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/> | 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/> | 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/> | 
