@@ -40,6 +40,50 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 | MariaDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="35"/> | SonarQube | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="35"/> |
 
 
+## 🛠️ Tools & Technologies
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/><br>Linux</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/><br>AWS</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/><br>Azure</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/><br>Terraform</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/><br>Jenkins</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/><br>Kubernetes</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/><br>Docker</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40"/><br>Ansible</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br>Git</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/><br>GitHub</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/><br>GitLab</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/><br>Prometheus</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/><br>Grafana</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="40"/><br>Datadog</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40"/><br>Maven</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br>Python</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/><br>Bash</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40"/><br>YAML</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/><br>Ubuntu</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><br>VS Code</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/><br>Jira</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/ic
+
+
+
 
 
 
