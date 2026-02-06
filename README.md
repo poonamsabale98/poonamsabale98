@@ -1,9 +1,4 @@
-👋 About Me
-
-
-
-
-  # 👨‍💻 About Me
+ ## 👨‍💻 About Me
 
 Hi, I'm **Poonam Sabale**, a passionate **DevOps Engineer** with a strong interest in cloud computing, automation, and building scalable applications.  
 
