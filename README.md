@@ -8,11 +8,8 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 ## 📫 How to reach me:
 
-## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poonam-sabale)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-poonam_sabale">LinkedIn</a>
-</p>
 
 
 
