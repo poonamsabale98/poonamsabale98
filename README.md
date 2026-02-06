@@ -15,6 +15,7 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 ## 🛠️ Tools & Technologies
 
 | Azure |Jenkins| Linux | GitLab | CircleCI | Jira |
+
 |-------|---------|-------|--------|----------|------|
 
 <p>
