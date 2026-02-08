@@ -84,6 +84,9 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 ![Poonam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=poonamsabale98&theme=github-dark)
 
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/poonamsabale98/poonamsabale98/blob/output/github-contribution-grid-snake.svg)
 
 
 
