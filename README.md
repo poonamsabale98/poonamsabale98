@@ -55,6 +55,7 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 </table>
 
+
 - **DevOps Stack:** Jenkins, Docker, Kubernetes, Terraform, Ansible, GitHub Actions
 
 - **Cloud Platforms:** AWS, Azure
@@ -64,12 +65,6 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 - **Monitoring:** Prometheus, Grafana, Datadog, ELK Stack
 
 - **Version Control:** Git, GitHub, GitLab
-
-  ## 📈 Contribution Graph
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/poonamsabale98/poonamsabale98/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📈 Contribution Graph
@@ -98,9 +93,31 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 
 
-## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=poonamsabale98&theme=react-dark)
+## 🚀 Featured Projects 
+
+📚# Project Student App
+
+A student management system to handle registrations, grades, and profiles.
+
+- Tech Stack: Java Spring Boot, Angular
+- Features:
+○ CRUD operations for student records
+○ Responsive design for seamless mobile use
+○ Role-based access for students and administrators
+
+📚# 3-Tier Student App Project
+
+A robust 3-tier architecture for a student management application.
+
+- Architecture:
+○ Frontend: Angular
+○ Backend: Java Spring Boot
+○ Database: MySQL
+- Features:
+○ Secure API interactions
+○ Centralized database with scalable backend
+○ Deployed on AWS with load balancing and high availability
 
 
 
