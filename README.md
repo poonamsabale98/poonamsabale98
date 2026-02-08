@@ -112,6 +112,9 @@ A robust 3-tier architecture for a student management application.
 ○ Deployed on AWS with load balancing and high availability
 
 -->
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/poonamsabale98/poonamsabale98/output/github-contribution-grid-snake.svg)
 
 
 
