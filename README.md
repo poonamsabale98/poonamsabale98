@@ -93,6 +93,14 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 </tr>
 </table>
 
+## Poonam's github statsTop Langs
+
+DevOps Stack: Jenkins, Docker, Kubernetes, Terraform, Ansible, GitHub Actions
+Cloud Platforms: AWS, Azure, 
+Languages: Python, Bash, YAML
+Monitoring: Prometheus, Grafana, Datadog, ELK Stack
+Version Control: Git, GitHub, GitLab
+
 ## 📊 GitHub Stats
 
 ![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam-sabale&show_icons=true&theme=radical)
