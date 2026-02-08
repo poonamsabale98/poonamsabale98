@@ -93,6 +93,11 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 </tr>
 </table>
 
+## 📊 GitHub Stats
+
+![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam-sabale&show_icons=true&theme=radical)
+
+
 
 
 
