@@ -67,11 +67,13 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 - **Version Control:** Git, GitHub, GitLab
 
 
+<!--
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poonamsabale98&theme=github-dark" />
 </p>
+-->
 
 
 
@@ -112,9 +114,6 @@ A robust 3-tier architecture for a student management application.
 ○ Deployed on AWS with load balancing and high availability
 
 -->
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/poonamsabale98/poonamsabale98/output/github-contribution-grid-snake.svg)
 
 
 
