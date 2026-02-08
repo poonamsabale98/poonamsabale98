@@ -73,6 +73,10 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poonamsabale98&theme=github-dark" />
 </p>
 
+
+
+
+<!--
 ## 🚀 Featured Projects 
 
 #📚 Project Student App
@@ -107,7 +111,7 @@ A robust 3-tier architecture for a student management application.
 
 ○ Deployed on AWS with load balancing and high availability
 
-
+-->
 
 
 
