@@ -79,14 +79,16 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 </p>
 
 
-## 📈 Contribution Graph
+### 📊 GitHub Overview
 
-![Poonam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=poonamsabale98&theme=github-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poonamsabale98&show_icons=true&theme=react-dark" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=poonamsabale98&theme=react-dark" height="165"/>
+</p>
 
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/poonamsabale98/poonamsabale98/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poonamsabale98&theme=react-dark"/>
+</p>
 
 
 
