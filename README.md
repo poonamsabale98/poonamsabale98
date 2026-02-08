@@ -66,15 +66,15 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 ## Poonam's github statsTop Langs
 
-- DevOps Stack: Jenkins, Docker, Kubernetes, Terraform, Ansible, GitHub Actions
+- **DevOps Stack:** Jenkins, Docker, Kubernetes, Terraform, Ansible, GitHub Actions
 
--Cloud Platforms:AWS, Azure
+- **Cloud Platforms:** AWS, Azure
  
-Languages:Python, Bash, YAML
+- **Languages:** Python, Bash, YAML
 
-Monitoring: Prometheus, Grafana, Datadog, ELK Stack
+- **Monitoring:** Prometheus, Grafana, Datadog, ELK Stack
 
-Version Control: Git, GitHub, GitLab
+- **Version Control:** Git, GitHub, GitLab
 
 
 
