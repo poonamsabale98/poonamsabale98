@@ -95,35 +95,24 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 ## Poonam's github statsTop Langs
 
-# DevOps Stack: Jenkins, Docker, Kubernetes, Terraform, Ansible, GitHub Actions
+# DevOps Stack: 
+Jenkins, Docker, Kubernetes, Terraform, Ansible, GitHub Actions
 
-# Cloud Platforms: AWS, Azure
+# Cloud Platforms:
+AWS, Azure
  
-# Languages: Python, Bash, YAML
+# Languages:
+Python, Bash, YAML
 
-# Monitoring: Prometheus, Grafana, Datadog, ELK Stack
+# Monitoring: 
+Prometheus, Grafana, Datadog, ELK Stack
 
-# Version Control: Git, GitHub, GitLab
-
-## 📊 GitHub Stats
-
-![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam-sabale&show_icons=true&theme=radical)
+# Version Control: 
+Git, GitHub, GitLab
 
 
-## 📊 Poonam's GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poonam-username&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poonam-username&layout=compact&theme=github_dark" height="165"/>
-</p>
 
-## 📊 Poonam's GitHub Stats
-
-![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam-poonamsabale98&show_icons=true&theme=github_dark)
-
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poonam-poonamsabale98&layout=compact&theme=github_dark)
 
 
 
