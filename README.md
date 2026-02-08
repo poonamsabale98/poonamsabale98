@@ -73,50 +73,38 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poonamsabale98&theme=github-dark" />
 </p>
 
-
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poonamsabale98&show_icons=true&theme=react-dark" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=poonamsabale98&theme=react-dark" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poonamsabale98&theme=react-dark"/>
-</p>
-
-
-
-## 📊 GitHub Stats
-
-![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonamsabale98&show_icons=true&theme=react-dark)
-
-
-
-
 ## 🚀 Featured Projects 
 
-📚# Project Student App
+#📚 Project Student App
 
 A student management system to handle registrations, grades, and profiles.
 
 - Tech Stack: Java Spring Boot, Angular
 - Features:
 ○ CRUD operations for student records
+
 ○ Responsive design for seamless mobile use
+
 ○ Role-based access for students and administrators
 
-📚# 3-Tier Student App Project
+#📚 3-Tier Student App Project
 
 A robust 3-tier architecture for a student management application.
 
 - Architecture:
+- 
 ○ Frontend: Angular
+
 ○ Backend: Java Spring Boot
+
 ○ Database: MySQL
+
 - Features:
+
 ○ Secure API interactions
+
 ○ Centralized database with scalable backend
+
 ○ Deployed on AWS with load balancing and high availability
 
 
