@@ -106,6 +106,12 @@ Version Control: Git, GitHub, GitLab
 ![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam-sabale&show_icons=true&theme=radical)
 
 
+## 📊 Poonam's GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poonam-username&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poonam-username&layout=compact&theme=github_dark" height="165"/>
+</p>
 
 
 
