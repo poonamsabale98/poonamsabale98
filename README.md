@@ -90,6 +90,9 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/poonamsabale98/poonamsabale98/output/github-contribution-grid-snake.svg)
 
 
 
