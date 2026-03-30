@@ -70,8 +70,6 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
  📈 Contribution Graph
 
-<h1 align="center">Hi 👋, I'm Poonam Sabale</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=poonamsabale98&color=green&style=flat-square" alt="visitor count"/>
 </p>
