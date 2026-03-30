@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 THIS FIXES THE ERROR
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,3 +28,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
