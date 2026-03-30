@@ -68,11 +68,15 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 
 <!--
-## 📈 Contribution Graph
+ 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poonamsabale98&theme=github-dark" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=poonamsabale98&color=green&style=flat-square)
 -->
 
 
