@@ -70,16 +70,15 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
  ## 📈 Contribution Graph
 
-<p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=poonamsabale98&color=green&style=flat-square" alt="visitor count"/>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poonamsabale98/poonamsabale98/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poonamsabale98/poonamsabale98/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/poonamsabale98/poonamsabale98/output/github-contribution-grid-snake.svg" />
 </picture>
--->
+
 
 
 
