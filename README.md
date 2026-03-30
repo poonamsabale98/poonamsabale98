@@ -68,7 +68,7 @@ I enjoy learning new technologies, collaborating with talented teams, and contri
 
 
 
- 📈 Contribution Graph
+ ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=poonamsabale98&color=green&style=flat-square" alt="visitor count"/>
